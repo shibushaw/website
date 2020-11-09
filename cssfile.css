@@ -1,0 +1,41 @@
+body{
+			background-color: #52575d;
+			font: Century Gothic;
+		}
+
+		hr {
+			color: #8d93ab;
+			border-style: none;
+			border-top-style: dotted;
+			border-width: 5px;
+			width: 12% ;
+}
+.myimg{
+	border-radius: 100%;
+		
+}
+p{
+	color: #16a596;
+	
+}
+h1{
+	font-family:  Times New Roman;
+	color: #ea5455;
+}
+h2{
+	color: #ea5455; ;
+}
+h3{
+	color: #ea5455;
+}
+table{
+	color: #16a596;
+}
+a href{
+	color:#8d93ab;
+}
+textarea{
+
+	background-color: #palewhite;
+	text-align: center;
+}
